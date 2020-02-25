@@ -1,0 +1,11 @@
+x=3
+y=4.8
+z="dasari" 
+a=7j 
+b=["tv","phone","laptop"]
+c=("tv","phone","laptop") 
+d={"tv","phone","laptop"}
+e=range(5)
+f=bool(2)
+print(x,y,z,a,b,c,d,e,f)
+print(type(x),type(y),type(z),type(a),type(b),type(c),type(d),type(e),type(f))
